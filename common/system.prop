@@ -40,10 +40,6 @@ video.accelerate.hw=1
 view.scroll_friction=0
 
 
-#Open the first-in-first-out interface thread
-sys.use_fifo_ui=1
-
-
 
 pm.dexopt.bg-dexopt=speed-profile
 pm.dexopt.shared=speed
