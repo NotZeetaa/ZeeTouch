@@ -29,7 +29,7 @@ TapSlop=1px
 persist.sys.scrollingcache=3
 
 #Improve sliding response
-windowsmgr.max_events_per_sec=90
+windowsmgr.max_events_per_sec=60
 view.scroll_friction=0
 ro.min_pointer_dur=8
 touch.deviceType=touchScreen
