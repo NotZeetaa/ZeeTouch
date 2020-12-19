@@ -27,6 +27,7 @@ QuietInterval=0.1ms
 MovementSpeedRatio=0.8
 TapSlop=1px
 persist.dev.pm.dyn_samplingrate=1
+touch.pressure.calibration=amplitude
 
 #Improve sliding response
 windowsmgr.max_events_per_sec=60
