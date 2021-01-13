@@ -41,6 +41,9 @@ video.accelerate.hw=1
 view.scroll_friction=0
 
 
+persist.vendor.qti.inputopts.enable=true
+persist.vendor.qti.inputopts.movetouchslop=0.6
+
 
 pm.dexopt.bg-dexopt=speed-profile
 pm.dexopt.shared=speed
