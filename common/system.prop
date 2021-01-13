@@ -42,7 +42,7 @@ view.scroll_friction=0
 
 
 persist.vendor.qti.inputopts.enable=true
-persist.vendor.qti.inputopts.movetouchslop=0.6
+persist.vendor.qti.inputopts.movetouchslop=0.1
 
 
 pm.dexopt.bg-dexopt=speed-profile
