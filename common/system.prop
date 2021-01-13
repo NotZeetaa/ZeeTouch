@@ -32,7 +32,6 @@ touch.pressure.calibration=amplitude
 #Improve sliding response
 windowsmgr.max_events_per_sec=60
 view.scroll_friction=0
-ro.min_pointer_dur=8
 touch.deviceType=touchScreen
 
 #Improve global touch screen response
