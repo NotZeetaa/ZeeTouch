@@ -3,7 +3,8 @@
 # ro.sf.lcd_density=320
 
 
-#ngentouch improve
+# Props to Improved Touch 
+# If u wanna copy , they are tottaly open source but give credits
 touch.pressure.scale=0.0001
 touch.orientationAware=0
 persist.sys.ui.hw=1
@@ -28,21 +29,13 @@ MovementSpeedRatio=0.8
 TapSlop=1px
 persist.dev.pm.dyn_samplingrate=1
 touch.pressure.calibration=amplitude
-
-#Improve sliding response
 windowsmgr.max_events_per_sec=60
 view.scroll_friction=0
 touch.deviceType=touchScreen
-
-#Improve global touch screen response
 debug.egl.hw=1
 video.accelerate.hw=1
 view.scroll_friction=0
-
-
 persist.vendor.qti.inputopts.enable=true
 persist.vendor.qti.inputopts.movetouchslop=0.1
-
-
 pm.dexopt.bg-dexopt=speed-profile
 pm.dexopt.shared=speed
